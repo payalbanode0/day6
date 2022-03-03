@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\bin\Debug\net5.0\Vendingmachine.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\bin\Debug\net5.0\Vendingmachine.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\bin\Debug\net5.0\Vendingmachine.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\bin\Debug\net5.0\Vendingmachine.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\bin\Debug\net5.0\Vendingmachine.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\bin\Debug\net5.0\Vendingmachine.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\refint\Vendingmachine.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\Vendingmachine.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\Vendingmachine\Vendingmachine\obj\Debug\net5.0\ref\Vendingmachine.dll

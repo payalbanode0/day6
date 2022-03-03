@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\bin\Debug\net5.0\decimaltobinary.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\bin\Debug\net5.0\decimaltobinary.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\bin\Debug\net5.0\decimaltobinary.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\bin\Debug\net5.0\decimaltobinary.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\bin\Debug\net5.0\decimaltobinary.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\bin\Debug\net5.0\decimaltobinary.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\refint\decimaltobinary.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\decimaltobinary.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\decimaltobinary\decimaltobinary\obj\Debug\net5.0\ref\decimaltobinary.dll

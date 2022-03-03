@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\bin\Debug\net5.0\reverse.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\bin\Debug\net5.0\reverse.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\bin\Debug\net5.0\reverse.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\bin\Debug\net5.0\reverse.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\bin\Debug\net5.0\reverse.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\bin\Debug\net5.0\reverse.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\refint\reverse.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\reverse.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\fibonacci\reverse\obj\Debug\net5.0\ref\reverse.dll

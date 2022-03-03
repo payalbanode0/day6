@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\bin\Debug\net5.0\prime.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\bin\Debug\net5.0\prime.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\bin\Debug\net5.0\prime.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\bin\Debug\net5.0\prime.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\bin\Debug\net5.0\prime.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\bin\Debug\net5.0\prime.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\refint\prime.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\prime.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\reverse\prime\obj\Debug\net5.0\ref\prime.dll
